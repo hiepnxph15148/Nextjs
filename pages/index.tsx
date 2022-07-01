@@ -18,8 +18,7 @@ const Home: NextPage = () => {
             <li><a href="" className='menu__link'>menu 3</a></li>
             <li><a href="" className='menu__link'>menu 4</a></li>
         </ul>
-      <Header></Header>
-
+      <Header />
       <footer className={styles.footer}>
         <a
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
